@@ -1,0 +1,11 @@
+{
+  "name": "async-await",
+  "version": "1.0.0",
+  "description": "Currency Project for async-await Operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pujan Bajracharya",
+  "license": "ISC"
+}
